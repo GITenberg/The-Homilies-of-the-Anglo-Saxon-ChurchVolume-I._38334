@@ -1,0 +1,40 @@
+_repo: The-Homilies-of-the-Anglo-Saxon-ChurchVolume-I._38334
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Thorpe, Benjamin
+    alias: Thorpe, B. (Benjamin)
+    birthdate: 1782
+    deathdate: 1870
+    gutenberg_agent_id: '39402'
+    url: http://www.gutenberg.org/2009/agents/39402
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aelfric, Abbot of Eynsham
+    aliases:
+    - Aelfricus, Abbot of Eynsham
+    - Elfrike, Abbot of Eynsham
+    - Elfric, Abbot of Eynsham
+    - Aelfrik, Abbot of Eynsham
+    gutenberg_agent_id: '39401'
+    url: http://www.gutenberg.org/2009/agents/39401
+    wikipedia: https://en.wikipedia.org/wiki/%C3%86lfric_of_Eynsham
+description: ''
+gutenberg_issued: '2011-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sermons, English (Old)'
+title: "The Homilies of the Anglo-Saxon Church\r\nContaining the Sermones Catholici,\
+  \ or Homilies of Ælfric, in the Original Anglo-Saxon, with an English Version. Volume\
+  \ I."
+url: http://www.gutenberg.org/ebooks/38334
